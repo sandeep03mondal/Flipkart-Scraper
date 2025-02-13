@@ -37,3 +37,24 @@ git clone https://github.com/sandeep03mondal/FSDS-Pro-Assignments/tree/main/9%29
 ```bash
 cd FlipKart-Scraper
 ```
+
+### Step 5: Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+## Usage
+### Step 1: Start the Flask web application
+```bash
+python app.py
+```
+### Step 2: Open the web interface in your browser
+```
+Visit http://127.0.0.1:5000.
+```
+### Step 3: Use the web interface
+```
+Input the desired Flipkart search term.
+Trigger the scraper to collect product data.
+View and export the scraped data.
+```
