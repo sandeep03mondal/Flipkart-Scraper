@@ -86,3 +86,14 @@ FlipKart-Scraper/
 - **Flask**:
 ```Web framework for building the project’s web interface.```
 
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Acknowledgements
+- Thanks to the Flipkart team for their amazing website.
+- Special thanks to all contributors.
+
