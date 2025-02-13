@@ -58,3 +58,16 @@ Input the desired Flipkart search term.
 Trigger the scraper to collect product data.
 View and export the scraped data.
 ```
+
+## Project Structure
+```
+FlipKart-Scraper/
+│
+├── app.py                  # Main Flask application
+├── scraper.py              # Web scraping logic
+├── templates/              # HTML templates for the web interface
+│   ├── index.html
+│   └── results.html
+├── requirements.txt        # List of project dependencies
+└── README.md               # Project documentation
+```
