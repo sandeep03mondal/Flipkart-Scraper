@@ -32,3 +32,6 @@ A web scraping project that collects and processes product data from Flipkart us
 
 ```bash
 git clone https://github.com/sandeep03mondal/FSDS-Pro-Assignments/tree/main/9%29%20Flask%20Project/FlipKart%20Scraper
+
+###Step 2: Navigate to the project directory
+cd FlipKart-Scraper
