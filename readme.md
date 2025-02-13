@@ -61,7 +61,7 @@ View and export the scraped data.
 
 ## Project Structure
 ```
-### FlipKart-Scraper/
+FlipKart-Scraper/
 │
 ├── app.py                  # Main Flask application
 ├── scraper.py              # Web scraping logic
@@ -73,7 +73,7 @@ View and export the scraped data.
 ```
 
 ## Modules Used
-### Selenium: For web automation and scraping.
-### Webdriver Manager: Automatically manages Chrome drivers for Selenium.
-### Pandas: For data manipulation and CSV export.
-### Flask: Web framework for building the project’s web interface.
+ Selenium: For web automation and scraping.
+ Webdriver Manager: Automatically manages Chrome drivers for Selenium.
+ Pandas: For data manipulation and CSV export.
+ Flask: Web framework for building the project’s web interface.
